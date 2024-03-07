@@ -32,4 +32,4 @@ Design patterns that are used completely all over the project:
 5. Interpreter pattern
 
 
-To run the program, change directory to this folder and run: python3 main.py or python main.py
+To run the program, change directory to this folder and run: `python3 main.py` or `python main.py`
