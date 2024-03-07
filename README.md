@@ -23,8 +23,7 @@ Print out all words in the trie.
 
 
 
-Design patterns that are used completely all over the project:
-
+Design patterns that are used:
 1. Strategy
 2. Internal Iterator
 3. Null Object pattern
