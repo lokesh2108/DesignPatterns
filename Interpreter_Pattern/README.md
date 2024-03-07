@@ -1,4 +1,4 @@
-# Assignment 4 - CS635
+
 
 We are going to implement part of a program inspired by Etoys (http://www.squeakland.org),
 Scratch (https://scratch.mit.edu) and turtle graphics

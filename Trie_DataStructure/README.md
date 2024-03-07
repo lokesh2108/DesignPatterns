@@ -1,4 +1,3 @@
-# cs635-assignment1
 
 Task: Produce code with the following functionality:
 1. Implements a trie using a linked structure.
