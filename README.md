@@ -1,5 +1,5 @@
 # DesignPatterns
-In this Project, we practice Different design Patterns inorder to get familiar with the concepts.
+In this Project, we practice different `Design Patterns` inorder to get familiar with the concepts.
 
 Implement a binary search tree with addition. You don’t have to implement delete on the tree. The tree contains Student objects. A student object contains first name, last name, red id, and GPA. You will implement the following patterns on your tree.
 
